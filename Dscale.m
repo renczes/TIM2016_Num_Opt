@@ -1,6 +1,8 @@
 %Script for checking the conditioning of system matrix D
 
+% Written by Istvan Kollar
 % $Id: dscale.m,v 1.0 17-Apr-2016 $
+% Copyright (c) 2016 by Istvan Kollar
 % All rights reserved.
 
 
