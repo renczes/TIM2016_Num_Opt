@@ -6,4 +6,6 @@ in IEEE Transactions on Instrumantation and Measurement 2016
 
 - phase_eval_prec   - Evaluates the the phases for cosine and sine functions with increased precision between -pi and pi
 
+- double2numv       - Auxiliary file for phase_eval_prec 
+
 - sumprec           - Pairwise summation of elements in a column or a raw of a matrix
